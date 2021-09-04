@@ -4,6 +4,11 @@
 
 # php-laravel-labs
 
+
+## Run on Cloud:
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mozgbrasil/php-laravel-labs) 
+
 ## Contribuição
 
 Caso queira contribuir para melhoria da documentação de um Fork no repositório e envie um pull request ou edite no github
