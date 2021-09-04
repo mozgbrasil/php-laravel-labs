@@ -5,7 +5,7 @@
 # php-laravel-labs
 
 
-## Run on Cloud:
+## Run on Cloud
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mozgbrasil/php-laravel-labs) 
 
