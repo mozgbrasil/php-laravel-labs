@@ -19,6 +19,16 @@
       "description": "A secret key for verifying the integrity of signed cookies.",
       "generator": "secret"
     },
+    "COMMAND_BUILD": {
+      "required": false,
+      "description": "",
+      "value": "echo COMMAND_BUILD"
+    },
+    "COMMAND_START": {
+      "required": false,
+      "description": "",
+      "value": "vendor/bin/heroku-php-apache2 public/"
+    },
       "APP_ENV": {
             "description": "-",
             "value": "local",
@@ -146,5 +156,7 @@
         "test": "./app.sh app_environments_test"
       }
     }
-  }
+  },
+  "stack": "heroku-20",
+  "labs": ["runtime-dyno-metadata"]
 }
