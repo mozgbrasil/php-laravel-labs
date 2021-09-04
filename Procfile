@@ -1,1 +1,3 @@
-web: vendor/bin/heroku-php-apache2 public/
+release: ./app.sh procfile_release
+web: ./app.sh procfile_web
+# worker: ./app.sh procfile_worker
