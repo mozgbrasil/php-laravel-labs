@@ -146,7 +146,5 @@
         "test": "./app.sh app_environments_test"
       }
     }
-  },
-  "stack": "heroku-20",
-  "labs": ["runtime-dyno-metadata"]
+  }
 }
